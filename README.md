@@ -1,6 +1,6 @@
 # 📔 C++ Private Diary 
 
-A simple, secure terminal-based diary application written in C++. This is my first step into C++ development while preparing for the **OJEE 2026** MCA entrance.
+A simple, secure terminal-based diary application written in C++. This is my first step into C++ development.
 
 ## 🚀 Features
 - **Secure Storage:** Uses a `.gitignore` to ensure personal entries stay on my local machine and never leak to GitHub.
